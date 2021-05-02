@@ -3,7 +3,7 @@
 #### -- Project Status: [Completed]
 
 ## Project Objective
-The purpose of this project is to classifiy the large dataset of chest x-ray images using a convolutional neural network.
+The purpose of this project is to classifiy a large dataset of chest x-ray images using a convolutional neural network.
 
 ### Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
@@ -20,4 +20,4 @@ The purpose of this project is to classifiy the large dataset of chest x-ray ima
 * Convolutional Neural Networks
 
 ## Project Description
-In this project, I worked on a dataset from kaggle that contained thousands of images of pneumonia and normal chest x-rays. I created a neural network to to classify these images and got an accuracy of 80.9% on my test set.  
+In this project, I worked on a dataset from kaggle that contained thousands of images of pneumonia and normal chest x-rays. I created a neural network to to classify these images using convolutional layers and got an accuracy of 80.9% on my test set.  
