@@ -1,3 +1,3 @@
-# pneumonia-prediction-from-chest-x-rays
+# Pneumonia Chest X-Ray Classification 
 
-Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+## Dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
